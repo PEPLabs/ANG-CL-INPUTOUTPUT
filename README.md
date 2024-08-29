@@ -17,4 +17,4 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## Files to Modify:
 - src/app/components/child/child.component.ts
-- src/app/components/parent/parent.component.ts
+- src/app/components/parent/parent.component.html
